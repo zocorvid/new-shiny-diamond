@@ -1,1 +1,2 @@
-# new-shiny-diamond
+# my-first-repository
+my first repository !
